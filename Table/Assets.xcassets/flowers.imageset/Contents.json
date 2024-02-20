@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "flowers.png",
+      "idiom" : "universal",
+      "unassigned" : true
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
